@@ -1,6 +1,6 @@
 # Hi there, I'm Pallab Ghosh 👋
 
-**Aspiring Software Development Engineer | Tech Explorer**
+**Aspiring Software Development Engineer | Tech Enthusiast | Freelancer (Video Captions & Subtitles Specialist)**
 
 Welcome to my corner of GitHub. I focus on learning core computer science concepts, writing clean code, and building practical software solutions.
 
@@ -18,7 +18,7 @@ Welcome to my corner of GitHub. I focus on learning core computer science concep
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** C, Python, JavaScript, HTML5, CSS3
-* **Tools & Platforms:** Git, GitHub, Linux, VS Code
+* **Tools & Platforms:** Git, GitHub, VS Code
 * **Core Focus:** Problem Solving, Algorithms, Data Structures
 
 ---
@@ -33,9 +33,12 @@ Welcome to my corner of GitHub. I focus on learning core computer science concep
 
 ### 📬 Connect With Me
 
+* **Email:** [zenix.pallab@gmail.com](mailto:zenix.pallab@gmail.com)
+* **Portfolio:** [Pallab Ghosh](https://zenix-pallab.netlify.app)
 * **Instagram:** [@zenix_pallab](https://instagram.com/zenix_pallab)
-* **Threads:** [@zenix_pallab](https://threads.net/@zenix_pallab)
-* **Central Portfolio:** [bento.me/zenix_pallab](https://bento.me/zenix_pallab)
+* **X/Twitter:** [@zenix_pallab](https://x.com/zenix_pallab)
+* **Facebook:** [Pallab Ghosh](https://www.facebook.com/share/19SYLGbuAf/)
+* **Linktree:** [@zenix_pallab](https://linktr.re/zenix_pallab)
 
 ---
 
